@@ -4,8 +4,6 @@ If you believe you have found a security vulnerability in browser-use, please re
 
 **Please do not report security vulnerabilities through the repository issues, discussions, or pull requests.**
 
-Instead, please open a new [Github security advisory](https://github.com/browser-use/web-ui/security/advisories/new).
-
 Please include as much of the information listed below as you can to help me better understand and resolve the issue:
 
 * The type of issue (e.g., buffer overflow, SQL injection, or cross-site scripting)

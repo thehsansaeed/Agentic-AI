@@ -10,8 +10,6 @@ This project builds upon the foundation of the [browser-use](https://github.com/
 
 **Persistent Browser Sessions:** Users have the option to maintain their browser session open across different AI tasks. This allows for continuity, enabling users to view a complete history and the current state of AI interactions.
 
-<video src="https://github.com/user-attachments/assets/56bc7080-f2e3-4367-af22-6bf2245ff6cb" controls="controls">Your browser does not support playing this video!</video>
-
 ## Installation Guide
 
 ### Prerequisites
@@ -248,7 +246,6 @@ CHROME_PERSISTENT_SESSION=true docker compose up --build
    # Stop the container
    docker compose down
    ```
-
 
 ## Developer Information
 
